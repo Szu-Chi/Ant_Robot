@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Ant_Robot.PrjPCB]
+   Generated File[Ant_Robot.TXT]
+   Generated File[Ant_Robot.LDP]
+   Generated File[Ant_Robot.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At ¤W¤È 09:15:01 On 2018/11/23

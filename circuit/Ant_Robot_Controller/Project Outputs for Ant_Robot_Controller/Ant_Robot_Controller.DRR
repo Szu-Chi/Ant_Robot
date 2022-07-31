@@ -1,0 +1,16 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Ant_Robot_Controller.PcbDoc   2018/11/30  ¤W¤È 01:28:15
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Ant_Robot_Controller.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        31.5mil (0.8001mm)       Round          14               8.38 Inch (212.94 mm)
+T2        39.4mil (1.00076mm)      Round          47               14.60 Inch (370.88 mm)
+T3        118.1mil (2.99974mm)     Round          4                5.35 Inch (135.89 mm)
+---------------------------------------------------------------------------
+Totals                                            65               28.34 Inch (719.71 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

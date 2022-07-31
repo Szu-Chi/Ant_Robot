@@ -1,0 +1,26 @@
+--cpu Cortex-M3
+"robot_ant_controller(stm32f103ze)\startup_stm32f103xe.o"
+"robot_ant_controller(stm32f103ze)\main.o"
+"robot_ant_controller(stm32f103ze)\stm32f1xx_it.o"
+"robot_ant_controller(stm32f103ze)\stm32f1xx_hal_msp.o"
+"robot_ant_controller(stm32f103ze)\stm32f1xx_hal_gpio_ex.o"
+"robot_ant_controller(stm32f103ze)\stm32f1xx_hal_adc.o"
+"robot_ant_controller(stm32f103ze)\stm32f1xx_hal_adc_ex.o"
+"robot_ant_controller(stm32f103ze)\stm32f1xx_hal.o"
+"robot_ant_controller(stm32f103ze)\stm32f1xx_hal_rcc.o"
+"robot_ant_controller(stm32f103ze)\stm32f1xx_hal_rcc_ex.o"
+"robot_ant_controller(stm32f103ze)\stm32f1xx_hal_gpio.o"
+"robot_ant_controller(stm32f103ze)\stm32f1xx_hal_dma.o"
+"robot_ant_controller(stm32f103ze)\stm32f1xx_hal_cortex.o"
+"robot_ant_controller(stm32f103ze)\stm32f1xx_hal_pwr.o"
+"robot_ant_controller(stm32f103ze)\stm32f1xx_hal_flash.o"
+"robot_ant_controller(stm32f103ze)\stm32f1xx_hal_flash_ex.o"
+"robot_ant_controller(stm32f103ze)\stm32f1xx_hal_exti.o"
+"robot_ant_controller(stm32f103ze)\stm32f1xx_hal_tim.o"
+"robot_ant_controller(stm32f103ze)\stm32f1xx_hal_tim_ex.o"
+"robot_ant_controller(stm32f103ze)\stm32f1xx_hal_uart.o"
+"robot_ant_controller(stm32f103ze)\system_stm32f1xx.o"
+--library_type=microlib --strict --scatter "Robot_Ant_Controller(STM32F103ZE)\Robot_Ant_Controller(STM32F103ZE).sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Robot_Ant_Controller(STM32F103ZE).map" -o Robot_Ant_Controller(STM32F103ZE)\Robot_Ant_Controller(STM32F103ZE).axf
